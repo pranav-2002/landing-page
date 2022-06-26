@@ -1,0 +1,16 @@
+.partners {
+    padding-bottom: 1rem;
+}
+
+.partners__images {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem 1rem;
+}
+
+.partners > hr {
+    width: 90%;
+    height: 1px;
+    background-color: #cccccc;
+}
